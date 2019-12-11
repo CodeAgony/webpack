@@ -1,0 +1,23 @@
+{
+  "name": "webpack_test",
+  "version": "1.0.0",
+  "description": "A test repo for me to play around with Webpack configs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAgony/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeAgony/webpack/issues"
+  },
+  "homepage": "https://github.com/CodeAgony/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
